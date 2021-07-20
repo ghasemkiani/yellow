@@ -55,5 +55,4 @@ class Game {
 	}
 }
 
-let game = new Game();
-game.play();
+export {Game};
