@@ -1,0 +1,23 @@
+{
+  "name": "@ghasemkiani/yellow",
+  "version": "1.0.0",
+  "description": "Yellow game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghasemkiani/yellow.git"
+  },
+  "keywords": [
+    "game",
+    "yellow"
+  ],
+  "author": "Ghasem Kiani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ghasemkiani/yellow/issues"
+  },
+  "homepage": "https://github.com/ghasemkiani/yellow#readme"
+}
